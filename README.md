@@ -1,6 +1,6 @@
 - AFE123x
 - Computer Science and Music major
-- ambitions: PIC programming, game development and collaborating with people more knowledgeable. 
+- ambitions: PIC programming, game development and to collaborate with others to gain knowledge.
 - Contact: AFE123#3619 on discord
 - Welcome to my Github profile. I'm a sophomore in college with the ambition of eventually working in the tech industry. 
 
