@@ -4,7 +4,6 @@
 
   In the digital landscape, I have carved a niche as a "GroupMe troller," where I engage in light-hearted banter and camaraderie with like-minded individuals. My wit and humor have found a platform in online communities, where I strive to inject levity and amusement into the digital discourse, fostering connections and bonds through communication. Furthermore, I possess a distinctive skill set that sets me apart: I am a pilot. The exhilaration of navigating the boundless skies, defying gravity's constraints, and witnessing the world from a bird's-eye view is an experience that has shaped my sense of adventure and exploration. The mastery of aviation principles and the responsibilities of being a pilot are both challenging and gratifying aspects of my life's journey. In the realm of technology, I proudly identify as an "Arch Linux user." This minimalist and highly customizable distribution has captured my technological heart, aligning seamlessly with my penchant for fine-tuning and configuring my digital environment to exact specifications. The elegance of Arch Linux lies in its unparalleled control and adaptability, offering a canvas upon which I can paint my digital aspirations. In sum, I am Arun Felix, a third-year student pursuing a dual major in Computer Science and Music, a fervent bassoon player, an ardent admirer of the Ford Escape, a jovial "Groupme troller," a skilled pilot, and a staunch advocate for the usage of Arch Linux. As I continue my journey through the labyrinthine corridors of life, I eagerly anticipate engaging in profound discussions, forging connections, and embarking on new adventures with the remarkable individuals I encounter. I extend my gratitude for allowing me to share this multifaceted self-introduction with you, and I am equally enthusiastic about learning more about each of you in return. -->
 
-
 <h1 align="center">Hi 👋, I'm Arun Felix</h1>
 <h3 align="center">A CS Major Enthusiastic about embedded systems</h3>
 
@@ -16,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arun-felix-389b03231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arun-felix-389b03231/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
