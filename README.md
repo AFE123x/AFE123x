@@ -5,7 +5,7 @@
   In the digital landscape, I have carved a niche as a "GroupMe troller," where I engage in light-hearted banter and camaraderie with like-minded individuals. My wit and humor have found a platform in online communities, where I strive to inject levity and amusement into the digital discourse, fostering connections and bonds through communication. Furthermore, I possess a distinctive skill set that sets me apart: I am a pilot. The exhilaration of navigating the boundless skies, defying gravity's constraints, and witnessing the world from a bird's-eye view is an experience that has shaped my sense of adventure and exploration. The mastery of aviation principles and the responsibilities of being a pilot are both challenging and gratifying aspects of my life's journey. In the realm of technology, I proudly identify as an "Arch Linux user." This minimalist and highly customizable distribution has captured my technological heart, aligning seamlessly with my penchant for fine-tuning and configuring my digital environment to exact specifications. The elegance of Arch Linux lies in its unparalleled control and adaptability, offering a canvas upon which I can paint my digital aspirations. In sum, I am Arun Felix, a third-year student pursuing a dual major in Computer Science and Music, a fervent bassoon player, an ardent admirer of the Ford Escape, a jovial "Groupme troller," a skilled pilot, and a staunch advocate for the usage of Arch Linux. As I continue my journey through the labyrinthine corridors of life, I eagerly anticipate engaging in profound discussions, forging connections, and embarking on new adventures with the remarkable individuals I encounter. I extend my gratitude for allowing me to share this multifaceted self-introduction with you, and I am equally enthusiastic about learning more about each of you in return. -->
 
 <h1 align="center">Hi 👋, I'm Arun Felix</h1>
-<h3 align="center">A CS Major Enthusiastic about embedded systems</h3>
+<h3 align="center">Embedded software engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afe123x" alt="afe123x" /></a> </p>
 
@@ -20,10 +20,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://zhangyue.gallerycdn.vsassets.io/extensions/zhangyue/rust-mod-generator/1.0.10/1645082827708/Microsoft.VisualStudio.Services.Icons.Default" alt="rust" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afe123x&show_icons=true&locale=en&layout=compact" alt="afe123x" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afe123x&show_icons=true&locale=en" alt="afe123x" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afe123x&" alt="afe123x" /></p>
-
