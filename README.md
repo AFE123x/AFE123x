@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Arun Felix</h1>
 <h3 align="center">Embedded software engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afe123x" alt="afe123x" /></a> </p>
+![GitHubCard](https://githubcard.com/AFE123x.svg)
 
 - 🌱 I’m currently learning **Operating Systems**
 
